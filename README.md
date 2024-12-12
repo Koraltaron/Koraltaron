@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clément Praud</h1>
 <h3 align="center">A passionate full stack developper from Nantes !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koraltaron&label=Profile%20views&color=0e75b6&style=flat" alt="koraltaron" /> </p>
-
 - 🔭 I’m currently working on **BabyPlace**
 
 - 🌱 I’m currently learning **ReactJS, MySQL, TypeScript**
