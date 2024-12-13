@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Clément Praud</h1>
 <h3 align="center">A passionate full stack developper from Nantes !</h3>
 
-- 🔭 I’m currently working on **BabyPlace**
+- 🔭 I’m currently working on **BabyPlace project on React/TypeScript/Express/SQL**
+<h3>Working mates on this project</h3>
+<ul>
+  <li>Alice</li>
+  <li>Naïma</li>
+  <li>Lucas</li>
+  <li>Marcellin</li>
+</ul>
 
 - 🌱 I’m currently learning **ReactJS, MySQL, TypeScript**
 
