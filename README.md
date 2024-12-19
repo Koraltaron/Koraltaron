@@ -8,8 +8,8 @@
 <ul>
   <li><a href="https://github.com/alicepgrd" alt="towards Alice's GitHub">Alice<a/></li> 
   <li><a href="https://github.com/naiiipan44" alt="towards Naïma's GitHub">Naïma<a/></li>
-  <li>Lucas</li>
-  <li>Marcellin</li>
+  <li href="https://github.com/LucasBbe" alt="towards Lucas's GitHub">Lucas</li>
+  <li href="https://github.com/Marcellin123" alt="towards Marcellin's GitHub">Marcellin</li>
 </ul>
 
 - 🌱 I’m currently learning **ReactJS, MySQL, TypeScript**
