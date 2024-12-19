@@ -7,7 +7,7 @@
 <h3>Working mates on this project</h3>
 <ul>
   <li>Alice</li>
-  <li>Naïma</li>
+  <li>Naïma - <a href="https://github.com/naiiipan44" alt="towards Naïma's GitHub"><a/></li>
   <li>Lucas</li>
   <li>Marcellin</li>
 </ul>
