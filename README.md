@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on **BabyPlace project on React/TypeScript/Express/SQL**
 <h3>Working mates on this project</h3>
 <ul>
-  <li>Alice</li>
-  <li>Naïma - <a href="https://github.com/naiiipan44" alt="towards Naïma's GitHub">naiiipan44<a/></li>
+  <li><a href="https://github.com/alicepgrd" alt="towards Alice's GitHub">Alice<a/></li> 
+  <li>Naïma - <a href="https://github.com/naiiipan44" alt="towards Naïma's GitHub">Naïma<a/></li>
   <li>Lucas</li>
   <li>Marcellin</li>
 </ul>
