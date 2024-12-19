@@ -3,8 +3,8 @@
 
 <p>After three years spent in academical research as PhD student in chemistry and physics, I've decided to make a career shift towards the web development, my real passion. I'm currently learning Full Stack developpement basics in ReactJS, NodeJS, MySQL, TypeScript and HTML/CSS, in the Wild Code School in Nantes. I really would like to be part of a company, to learn and to contribute as internship student.</p>
 
-- 🔭 I’m currently working on **Les petits nids project on React/TypeScript/Express/SQL**
-<h3>Working mates on this project</h3>
+<h3>🔭 I’m currently working on Les petits nids project on React/TypeScript/Express/SQL</h3>
+<h4>Working mates on this project</h4>
 <ul>
   <li><a href="https://github.com/alicepgrd" alt="towards Alice's GitHub">Alice<a/></li> 
   <li><a href="https://github.com/naiiipan44" alt="towards Naïma's GitHub">Naïma<a/></li>
