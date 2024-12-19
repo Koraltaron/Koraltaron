@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/clément praud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clément praud" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Koraltaron" target="blank"><img align="center" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/224027/cw-512-12b281b9-f8a8-4512-9050-dcc2a2c7bb89.png" alt="codewars profil" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Koraltaron" target="blank"><img align="center" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/224027/cw-512-12b281b9-f8a8-4512-9050-dcc2a2c7bb89.png" alt="codewars profil" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
